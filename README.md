@@ -1,6 +1,6 @@
 # slack-emojis
 
-Custom Slack emojis I've created (generated with ChatGPT, cleaned up and resized). Private archive so I never have to rebuild them.
+Custom Slack emojis I've created (generated with ChatGPT, cleaned up and resized). Archive so I never have to rebuild them.
 
 ## Contents
 
